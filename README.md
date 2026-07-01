@@ -1,0 +1,3 @@
+# SpellsJS
+
+Placeholder
